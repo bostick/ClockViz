@@ -58,3 +58,13 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+
+build-ios
+build-ios_BurstDebugInformation_DoNotShip
+build-android
+
+.DS_Store
+
+
+
